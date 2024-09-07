@@ -10,6 +10,6 @@
 - Run DX9 version of the game as DX10 version does not render part of the player and NPCs
 
 > [!WARNING]
-> The game suffers from a severe heartbeat-like sound stuttering. Also it's performance is quite poor.
+> The game suffers from a severe heartbeat-like sound stuttering. Also its performance is quite poor.
 
 {{#template ../templates/steam.md id=15100}}
