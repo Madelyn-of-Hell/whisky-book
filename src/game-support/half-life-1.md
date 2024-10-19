@@ -5,8 +5,7 @@
     "Half Life 1"
 ] -->
 
-{{#template ../templates/rating.md status=Garbage installs=Yes opens=No}}
+{{#template ../templates/rating.md status=Bronze installs=Yes opens=Yes}}
 
-Half-Life 1 is currently **unplayable** in Whiskey.
-
+Opens and is playable, though audio is stuttery at best.
 {{#template ../templates/steam.md id=70}}
